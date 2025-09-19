@@ -1,0 +1,90 @@
+D:\LapTrinhWindows\PROJECT\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+D:\LapTrinhWindows\PROJECT\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+D:\LapTrinhWindows\PROJECT\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\LapTrinhWindows\PROJECT\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\LapTrinhWindows\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+D:\LapTrinhWindows\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindows\PROJECT\BusinessAccessLayer\obj\Debug\Business.395A7FC9.Up2Date
+D:\LapTrinhWindows\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+D:\LapTrinhWindows\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+C:\Users\admin1\Documents\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECT\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+C:\Users\admin1\Documents\PROJECT\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECT\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\admin1\Documents\PROJECT\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECT\BusinessAccessLayer\obj\Debug\Business.395A7FC9.Up2Date
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\BusinessAccessLayer\obj\Debug\Business.395A7FC9.Up2Date
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
+D:\Zalo Received Files\PROJECT\PROJECT\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+D:\Zalo Received Files\PROJECT\PROJECT\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+D:\Zalo Received Files\PROJECT\PROJECT\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Zalo Received Files\PROJECT\PROJECT\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Zalo Received Files\PROJECT\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+D:\Zalo Received Files\PROJECT\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+D:\Zalo Received Files\PROJECT\PROJECT\BusinessAccessLayer\obj\Debug\Business.395A7FC9.Up2Date
+D:\Zalo Received Files\PROJECT\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+D:\Zalo Received Files\PROJECT\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
+C:\Users\MSII\Downloads\PROJECT\PROJECT\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+C:\Users\MSII\Downloads\PROJECT\PROJECT\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\MSII\Downloads\PROJECT\PROJECT\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\MSII\Downloads\PROJECT\PROJECT\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\MSII\Downloads\PROJECT\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\MSII\Downloads\PROJECT\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MSII\Downloads\PROJECT\PROJECT\BusinessAccessLayer\obj\Debug\Business.395A7FC9.Up2Date
+C:\Users\MSII\Downloads\PROJECT\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+C:\Users\MSII\Downloads\PROJECT\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\BusinessAccessLayer\obj\Debug\Business.395A7FC9.Up2Date
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECT_DBMS\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\PROJECT_DBMS\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\PROJECT_DBMS\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+C:\Users\admin1\Documents\PROJECT_DBMS\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECT_DBMS\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+C:\Users\admin1\Documents\PROJECT_DBMS\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECT_DBMS\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\admin1\Documents\PROJECT_DBMS\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECT_DBMS\BusinessAccessLayer\obj\Debug\Business.395A7FC9.Up2Date
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\obj\Debug\Business.395A7FC9.Up2Date
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\obj\Debug\Business.395A7FC9.Up2Date
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.AssemblyReference.cache
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\obj\Debug\Business.395A7FC9.Up2Date
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb

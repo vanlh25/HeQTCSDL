@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD78063E-D406-40B1-BE49-3D02305B19C1}|WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen.csproj|d:\\hk2_2024\\databasemanagementsystem\\cuoiky_dbms\\b\u00E1o c\u00E1o cky\\baocaocuoiky_dbms\\project_dbms\\wfqldatxetructuyen\\wfqldatxetructuyen\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD78063E-D406-40B1-BE49-3D02305B19C1}|WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen.csproj|solutionrelative:wfqldatxetructuyen\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD78063E-D406-40B1-BE49-3D02305B19C1}|WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen.csproj|d:\\hk2_2024\\databasemanagementsystem\\cuoiky_dbms\\b\u00E1o c\u00E1o cky\\baocaocuoiky_dbms\\project_dbms\\wfqldatxetructuyen\\wfqldatxetructuyen\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD78063E-D406-40B1-BE49-3D02305B19C1}|WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen.csproj|solutionrelative:wfqldatxetructuyen\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD78063E-D406-40B1-BE49-3D02305B19C1}|WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen.csproj|D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\wfqldatxetructuyen\\frmlichlamviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD78063E-D406-40B1-BE49-3D02305B19C1}|WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen.csproj|solutionrelative:wfqldatxetructuyen\\frmlichlamviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD78063E-D406-40B1-BE49-3D02305B19C1}|WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen.csproj|D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\wfqldatxetructuyen\\frmlichlamviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD78063E-D406-40B1-BE49-3D02305B19C1}|WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen.csproj|solutionrelative:wfqldatxetructuyen\\frmlichlamviec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD78063E-D406-40B1-BE49-3D02305B19C1}|WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen.csproj|d:\\hk2_2024\\databasemanagementsystem\\cuoiky_dbms\\b\u00E1o c\u00E1o cky\\baocaocuoiky_dbms\\project_dbms\\wfqldatxetructuyen\\wfqldatxetructuyen\\frmmanhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD78063E-D406-40B1-BE49-3D02305B19C1}|WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen.csproj|solutionrelative:wfqldatxetructuyen\\frmmanhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD78063E-D406-40B1-BE49-3D02305B19C1}|WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen.csproj|d:\\hk2_2024\\databasemanagementsystem\\cuoiky_dbms\\b\u00E1o c\u00E1o cky\\baocaocuoiky_dbms\\project_dbms\\wfqldatxetructuyen\\wfqldatxetructuyen\\frmmanhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD78063E-D406-40B1-BE49-3D02305B19C1}|WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen.csproj|solutionrelative:wfqldatxetructuyen\\frmmanhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD78063E-D406-40B1-BE49-3D02305B19C1}|WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen.csproj|d:\\hk2_2024\\databasemanagementsystem\\cuoiky_dbms\\b\u00E1o c\u00E1o cky\\baocaocuoiky_dbms\\project_dbms\\wfqldatxetructuyen\\wfqldatxetructuyen\\frmdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD78063E-D406-40B1-BE49-3D02305B19C1}|WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen.csproj|solutionrelative:wfqldatxetructuyen\\frmdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD78063E-D406-40B1-BE49-3D02305B19C1}|WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen.csproj|d:\\hk2_2024\\databasemanagementsystem\\cuoiky_dbms\\b\u00E1o c\u00E1o cky\\baocaocuoiky_dbms\\project_dbms\\wfqldatxetructuyen\\wfqldatxetructuyen\\frmmanhinhchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD78063E-D406-40B1-BE49-3D02305B19C1}|WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen.csproj|solutionrelative:wfqldatxetructuyen\\frmmanhinhchinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD78063E-D406-40B1-BE49-3D02305B19C1}|WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen.csproj|d:\\hk2_2024\\databasemanagementsystem\\cuoiky_dbms\\b\u00E1o c\u00E1o cky\\baocaocuoiky_dbms\\project_dbms\\wfqldatxetructuyen\\wfqldatxetructuyen\\frmchuyenxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD78063E-D406-40B1-BE49-3D02305B19C1}|WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen.csproj|solutionrelative:wfqldatxetructuyen\\frmchuyenxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD78063E-D406-40B1-BE49-3D02305B19C1}|WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen.csproj|d:\\hk2_2024\\databasemanagementsystem\\cuoiky_dbms\\b\u00E1o c\u00E1o cky\\baocaocuoiky_dbms\\project_dbms\\wfqldatxetructuyen\\wfqldatxetructuyen\\themecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD78063E-D406-40B1-BE49-3D02305B19C1}|WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen.csproj|solutionrelative:wfqldatxetructuyen\\themecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CA742F-4865-4004-9184-40EFF15982FE}|..\\BusinessAccessLayer\\BusinessAccessLayer.csproj|d:\\hk2_2024\\databasemanagementsystem\\cuoiky_dbms\\b\u00E1o c\u00E1o cky\\baocaocuoiky_dbms\\project_dbms\\businessaccesslayer\\dbtaixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62CA742F-4865-4004-9184-40EFF15982FE}|..\\BusinessAccessLayer\\BusinessAccessLayer.csproj|d:\\hk2_2024\\databasemanagementsystem\\cuoiky_dbms\\b\u00E1o c\u00E1o cky\\baocaocuoiky_dbms\\project_dbms\\businessaccesslayer\\dbchuyenxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmNhanVien.cs",
+              "DocumentMoniker": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen\\FrmNhanVien.cs",
+              "RelativeDocumentMoniker": "WFQLDatXeTrucTuyen\\FrmNhanVien.cs",
+              "ToolTip": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen\\FrmNhanVien.cs*",
+              "RelativeToolTip": "WFQLDatXeTrucTuyen\\FrmNhanVien.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:10:00.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen\\FrmNhanVien.cs",
+              "RelativeDocumentMoniker": "WFQLDatXeTrucTuyen\\FrmNhanVien.cs",
+              "ToolTip": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen\\FrmNhanVien.cs [Design]*",
+              "RelativeToolTip": "WFQLDatXeTrucTuyen\\FrmNhanVien.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:26:21.875Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmLichLamViec.cs [Design]",
+              "DocumentMoniker": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen\\FrmLichLamViec.cs",
+              "RelativeDocumentMoniker": "WFQLDatXeTrucTuyen\\FrmLichLamViec.cs",
+              "ToolTip": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen\\FrmLichLamViec.cs [Design]",
+              "RelativeToolTip": "WFQLDatXeTrucTuyen\\FrmLichLamViec.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:18:55.509Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmManHinhChinh.cs",
+              "DocumentMoniker": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen\\FrmManHinhChinh.cs",
+              "RelativeDocumentMoniker": "WFQLDatXeTrucTuyen\\FrmManHinhChinh.cs",
+              "ToolTip": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen\\FrmManHinhChinh.cs",
+              "RelativeToolTip": "WFQLDatXeTrucTuyen\\FrmManHinhChinh.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAswJoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:38:41.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmLichLamViec.cs",
+              "DocumentMoniker": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen\\FrmLichLamViec.cs",
+              "RelativeDocumentMoniker": "WFQLDatXeTrucTuyen\\FrmLichLamViec.cs",
+              "ToolTip": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen\\FrmLichLamViec.cs",
+              "RelativeToolTip": "WFQLDatXeTrucTuyen\\FrmLichLamViec.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAuwKkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:18:59.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmManHinhChinh.cs [Design]",
+              "DocumentMoniker": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen\\FrmManHinhChinh.cs",
+              "RelativeDocumentMoniker": "WFQLDatXeTrucTuyen\\FrmManHinhChinh.cs",
+              "ToolTip": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen\\FrmManHinhChinh.cs [Design]",
+              "RelativeToolTip": "WFQLDatXeTrucTuyen\\FrmManHinhChinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T01:26:08.996Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmDoanhThu.cs [Design]",
+              "DocumentMoniker": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen\\FrmDoanhThu.cs",
+              "RelativeDocumentMoniker": "WFQLDatXeTrucTuyen\\FrmDoanhThu.cs",
+              "ToolTip": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen\\FrmDoanhThu.cs [Design]*",
+              "RelativeToolTip": "WFQLDatXeTrucTuyen\\FrmDoanhThu.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:11:01.643Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmManHinhChinh.Designer.cs",
+              "DocumentMoniker": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen\\FrmManHinhChinh.Designer.cs",
+              "RelativeDocumentMoniker": "WFQLDatXeTrucTuyen\\FrmManHinhChinh.Designer.cs",
+              "ToolTip": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen\\FrmManHinhChinh.Designer.cs",
+              "RelativeToolTip": "WFQLDatXeTrucTuyen\\FrmManHinhChinh.Designer.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:13:37.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThemeColor.cs",
+              "DocumentMoniker": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen\\ThemeColor.cs",
+              "RelativeDocumentMoniker": "WFQLDatXeTrucTuyen\\ThemeColor.cs",
+              "ToolTip": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen\\ThemeColor.cs",
+              "RelativeToolTip": "WFQLDatXeTrucTuyen\\ThemeColor.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T03:01:54.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmChuyenXe.cs",
+              "DocumentMoniker": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen\\FrmChuyenXe.cs",
+              "RelativeDocumentMoniker": "WFQLDatXeTrucTuyen\\FrmChuyenXe.cs",
+              "ToolTip": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\WFQLDatXeTrucTuyen\\WFQLDatXeTrucTuyen\\FrmChuyenXe.cs",
+              "RelativeToolTip": "WFQLDatXeTrucTuyen\\FrmChuyenXe.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:38:18.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DBChuyenXe.cs",
+              "DocumentMoniker": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\BusinessAccessLayer\\DBChuyenXe.cs",
+              "RelativeDocumentMoniker": "..\\BusinessAccessLayer\\DBChuyenXe.cs",
+              "ToolTip": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\BusinessAccessLayer\\DBChuyenXe.cs",
+              "RelativeToolTip": "..\\BusinessAccessLayer\\DBChuyenXe.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAJgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:18:40.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DBTaiXe.cs",
+              "DocumentMoniker": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\BusinessAccessLayer\\DBTaiXe.cs",
+              "RelativeDocumentMoniker": "..\\BusinessAccessLayer\\DBTaiXe.cs",
+              "ToolTip": "D:\\HK2_2024\\DatabaseManagementSystem\\CuoiKy_DBMS\\B\u00E1o C\u00E1o CKy\\BaoCaoCuoiKy_DBMS\\PROJECT_DBMS\\BusinessAccessLayer\\DBTaiXe.cs",
+              "RelativeToolTip": "..\\BusinessAccessLayer\\DBTaiXe.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAuwK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:00:36.228Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 388,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

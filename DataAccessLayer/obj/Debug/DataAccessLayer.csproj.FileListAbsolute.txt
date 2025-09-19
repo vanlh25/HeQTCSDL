@@ -1,0 +1,54 @@
+D:\LapTrinhWindows\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\LapTrinhWindows\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindows\PROJECT\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\LapTrinhWindows\PROJECT\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\LapTrinhWindows\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\LapTrinhWindows\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECT\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\admin1\Documents\PROJECT\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\admin1\Documents\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Zalo Received Files\PROJECT\PROJECT\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Zalo Received Files\PROJECT\PROJECT\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Zalo Received Files\PROJECT\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Zalo Received Files\PROJECT\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Zalo Received Files\PROJECT\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Zalo Received Files\PROJECT\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\MSII\Downloads\PROJECT\PROJECT\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\MSII\Downloads\PROJECT\PROJECT\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\MSII\Downloads\PROJECT\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\MSII\Downloads\PROJECT\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MSII\Downloads\PROJECT\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\MSII\Downloads\PROJECT\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECT_DBMS\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\admin1\Documents\PROJECT_DBMS\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECT_DBMS\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\PROJECT_DBMS\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\PROJECT_DBMS\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\admin1\Documents\PROJECT_DBMS\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

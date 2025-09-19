@@ -1,0 +1,292 @@
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.exe.config
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.exe
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.pdb
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.AssemblyReference.cache
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmManHinhChinh.resources
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.Properties.Resources.resources
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.GenerateResource.cache
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.exe
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.pdb
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\dje-NE\WFQLDatXeTrucTuyen.resources.dll
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTuyenDuong.resources
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTuyenDuong.dje-NE.resources
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\dje-NE\WFQLDatXeTrucTuyen.resources.dll
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\BusinessAccessLayer.dll
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\DataAccessLayer.dll
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\BusinessAccessLayer.pdb
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\DataAccessLayer.pdb
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatX.EFF8FB9D.Up2Date
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmXeKhach.resources
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmChuyenXe.resources
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmKhachHang.resources
+D:\LapTrinhWindows\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmLogin.resources
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmChuyenXe.resources
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmKhachHang.resources
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmLogin.resources
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmManHinhChinh.resources
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmNhanVien.resources
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTuyenDuong.resources
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmXeKhach.resources
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.Properties.Resources.resources
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTuyenDuong.dje-NE.resources
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.GenerateResource.cache
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.exe
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.pdb
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.exe.config
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.exe
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.pdb
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\dje-NE\WFQLDatXeTrucTuyen.resources.dll
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\DataAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\dje-NE\WFQLDatXeTrucTuyen.resources.dll
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatX.EFF8FB9D.Up2Date
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTaiXe.resources
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmThanhToan.resources
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\BusinessAccessLayer.dll
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\DataAccessLayer.dll
+C:\Users\admin1\Documents\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmKhuyenMai.resources
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.exe.config
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.exe
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.pdb
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\dje-NE\WFQLDatXeTrucTuyen.resources.dll
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\BusinessAccessLayer.dll
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\DataAccessLayer.dll
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\BusinessAccessLayer.pdb
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\DataAccessLayer.pdb
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.AssemblyReference.cache
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmChuyenXe.resources
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmKhachHang.resources
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmKhuyenMai.resources
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmLogin.resources
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmManHinhChinh.resources
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmNhanVien.resources
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTaiXe.resources
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmThanhToan.resources
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTuyenDuong.resources
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmXeKhach.resources
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.Properties.Resources.resources
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTuyenDuong.dje-NE.resources
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.GenerateResource.cache
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.CoreCompileInputs.cache
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\dje-NE\WFQLDatXeTrucTuyen.resources.dll
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatX.EFF8FB9D.Up2Date
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.exe
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.pdb
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.exe.config
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.exe
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.pdb
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\dje-NE\WFQLDatXeTrucTuyen.resources.dll
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\BusinessAccessLayer.dll
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\DataAccessLayer.dll
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\BusinessAccessLayer.pdb
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\DataAccessLayer.pdb
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.AssemblyReference.cache
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmChuyenXe.resources
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmKhachHang.resources
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmKhuyenMai.resources
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmLogin.resources
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmManHinhChinh.resources
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmNhanVien.resources
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTaiXe.resources
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmThanhToan.resources
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTuyenDuong.resources
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmXeKhach.resources
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.Properties.Resources.resources
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTuyenDuong.dje-NE.resources
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.GenerateResource.cache
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.CoreCompileInputs.cache
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\dje-NE\WFQLDatXeTrucTuyen.resources.dll
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatX.EFF8FB9D.Up2Date
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.exe
+D:\Zalo Received Files\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.pdb
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.exe.config
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.exe
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.pdb
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\dje-NE\WFQLDatXeTrucTuyen.resources.dll
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\BusinessAccessLayer.dll
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\DataAccessLayer.dll
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\DataAccessLayer.pdb
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.AssemblyReference.cache
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmChuyenXe.resources
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmKhachHang.resources
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmKhuyenMai.resources
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmLogin.resources
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmManHinhChinh.resources
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmNhanVien.resources
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTaiXe.resources
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmThanhToan.resources
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTuyenDuong.resources
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmXeKhach.resources
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.Properties.Resources.resources
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTuyenDuong.dje-NE.resources
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.GenerateResource.cache
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.CoreCompileInputs.cache
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\dje-NE\WFQLDatXeTrucTuyen.resources.dll
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatX.EFF8FB9D.Up2Date
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.exe
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.pdb
+C:\Users\MSII\Downloads\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmVe.resources
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.exe.config
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.exe
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.pdb
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\dje-NE\WFQLDatXeTrucTuyen.resources.dll
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\BusinessAccessLayer.dll
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\DataAccessLayer.dll
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\DataAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmChuyenXe.resources
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmKhachHang.resources
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmKhuyenMai.resources
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmLogin.resources
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmManHinhChinh.resources
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmNhanVien.resources
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTaiXe.resources
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmThanhToan.resources
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTuyenDuong.resources
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmVe.resources
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmXeKhach.resources
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.Properties.Resources.resources
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTuyenDuong.dje-NE.resources
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.GenerateResource.cache
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\dje-NE\WFQLDatXeTrucTuyen.resources.dll
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatX.EFF8FB9D.Up2Date
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.exe
+C:\Users\admin1\Documents\PROJECTFIX2\PROJECT\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.pdb
+D:\HK2_2024\WindowsProgramming\CuoiKy_WF\BaoCao_WF\PROJECT\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmVe.resources
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.AssemblyReference.cache
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmChuyenXe.resources
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmKhachHang.resources
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmKhuyenMai.resources
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmLogin.resources
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmManHinhChinh.resources
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmNhanVien.resources
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTaiXe.resources
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmThanhToan.resources
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTuyenDuong.resources
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmVe.resources
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmXeKhach.resources
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.Properties.Resources.resources
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTuyenDuong.dje-NE.resources
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.GenerateResource.cache
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.exe
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.pdb
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.exe.config
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.exe
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.pdb
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\dje-NE\WFQLDatXeTrucTuyen.resources.dll
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\BusinessAccessLayer.dll
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\DataAccessLayer.dll
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\DataAccessLayer.pdb
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\dje-NE\WFQLDatXeTrucTuyen.resources.dll
+C:\Users\admin1\Documents\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatX.EFF8FB9D.Up2Date
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.exe.config
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.exe
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.pdb
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\dje-NE\WFQLDatXeTrucTuyen.resources.dll
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\BusinessAccessLayer.dll
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\DataAccessLayer.dll
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\BusinessAccessLayer.pdb
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\DataAccessLayer.pdb
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.AssemblyReference.cache
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmChuyenXe.resources
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmKhachHang.resources
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmKhuyenMai.resources
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmLogin.resources
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmManHinhChinh.resources
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmNhanVien.resources
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTaiXe.resources
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmThanhToan.resources
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTuyenDuong.resources
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmVe.resources
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmXeKhach.resources
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.Properties.Resources.resources
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTuyenDuong.dje-NE.resources
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.GenerateResource.cache
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.CoreCompileInputs.cache
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\dje-NE\WFQLDatXeTrucTuyen.resources.dll
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatX.EFF8FB9D.Up2Date
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.exe
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.pdb
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.exe.config
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.exe
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.pdb
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\dje-NE\WFQLDatXeTrucTuyen.resources.dll
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\BusinessAccessLayer.dll
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\DataAccessLayer.dll
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\DataAccessLayer.pdb
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.AssemblyReference.cache
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmChuyenXe.resources
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmDoanhThu.resources
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmKhachHang.resources
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmKhuyenMai.resources
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmLogin.resources
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmManHinhChinh.resources
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmNhanVien.resources
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTaiXe.resources
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmThanhToan.resources
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTuyenDuong.resources
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmVe.resources
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmXeKhach.resources
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.Properties.Resources.resources
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTuyenDuong.dje-NE.resources
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.GenerateResource.cache
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.CoreCompileInputs.cache
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\dje-NE\WFQLDatXeTrucTuyen.resources.dll
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatX.EFF8FB9D.Up2Date
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.exe
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.pdb
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmLichLamViec.resources
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmEditKhachHang.resources
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmEditNhanVien.resources
+C:\Users\MSII\Downloads\Báo Cáo CKy\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmEditTaiXe.resources
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.exe.config
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.exe
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\WFQLDatXeTrucTuyen.pdb
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\dje-NE\WFQLDatXeTrucTuyen.resources.dll
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\BusinessAccessLayer.dll
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\DataAccessLayer.dll
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\BusinessAccessLayer.pdb
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\bin\Debug\DataAccessLayer.pdb
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.AssemblyReference.cache
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmChuyenXe.resources
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmDoanhThu.resources
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmEditKhachHang.resources
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmEditNhanVien.resources
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmEditTaiXe.resources
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmKhachHang.resources
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmKhuyenMai.resources
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmLichLamViec.resources
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmLogin.resources
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmManHinhChinh.resources
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmNhanVien.resources
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTaiXe.resources
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmThanhToan.resources
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTuyenDuong.resources
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmVe.resources
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmXeKhach.resources
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.Properties.Resources.resources
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmTuyenDuong.dje-NE.resources
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.GenerateResource.cache
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.csproj.CoreCompileInputs.cache
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\dje-NE\WFQLDatXeTrucTuyen.resources.dll
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatX.EFF8FB9D.Up2Date
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.exe
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.pdb
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmManHinhChinh_LaiXe.resources
+D:\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmManHinhChinh_NhanVien.resources
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmDoanhThu.resources
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmEditKhachHang.resources
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmEditNhanVien.resources
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmEditTaiXe.resources
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmLichLamViec.resources
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmManHinhChinh_LaiXe.resources
+D:\HK2_2024\DatabaseManagementSystem\CuoiKy_DBMS\Báo Cáo CKy\BaoCaoCuoiKy_DBMS\PROJECT_DBMS\WFQLDatXeTrucTuyen\WFQLDatXeTrucTuyen\obj\Debug\WFQLDatXeTrucTuyen.FrmManHinhChinh_NhanVien.resources

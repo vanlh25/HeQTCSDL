@@ -1,0 +1,1083 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="txt_ThoiGianTB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>738, 82</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="txt_ThoiGianTB.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="txt_ThoiGianTB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>240, 23</value>
+  </data>
+  <data name="txt_ThoiGianTB.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="&gt;&gt;txt_ThoiGianTB.Name" xml:space="preserve">
+    <value>txt_ThoiGianTB</value>
+  </data>
+  <data name="&gt;&gt;txt_ThoiGianTB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_ThoiGianTB.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;txt_ThoiGianTB.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label_ThoiGianTB.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label_ThoiGianTB.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei UI, 12pt</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="label_ThoiGianTB.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label_ThoiGianTB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>588, 79</value>
+  </data>
+  <data name="label_ThoiGianTB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>135, 27</value>
+  </data>
+  <data name="label_ThoiGianTB.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="label_ThoiGianTB.Text" xml:space="preserve">
+    <value>Thời Gian TB:</value>
+  </data>
+  <data name="&gt;&gt;label_ThoiGianTB.Name" xml:space="preserve">
+    <value>label_ThoiGianTB</value>
+  </data>
+  <data name="&gt;&gt;label_ThoiGianTB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label_ThoiGianTB.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;label_ThoiGianTB.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="txt_TinhTrang.Location" type="System.Drawing.Point, System.Drawing">
+    <value>135, 113</value>
+  </data>
+  <data name="txt_TinhTrang.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="txt_TinhTrang.Size" type="System.Drawing.Size, System.Drawing">
+    <value>209, 22</value>
+  </data>
+  <data name="txt_TinhTrang.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;txt_TinhTrang.Name" xml:space="preserve">
+    <value>txt_TinhTrang</value>
+  </data>
+  <data name="&gt;&gt;txt_TinhTrang.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_TinhTrang.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;txt_TinhTrang.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label_TinhTrang.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label_TinhTrang.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei UI, 12pt</value>
+  </data>
+  <data name="label_TinhTrang.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label_TinhTrang.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 110</value>
+  </data>
+  <data name="label_TinhTrang.Size" type="System.Drawing.Size, System.Drawing">
+    <value>114, 27</value>
+  </data>
+  <data name="label_TinhTrang.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="label_TinhTrang.Text" xml:space="preserve">
+    <value>Tình trạng:</value>
+  </data>
+  <data name="&gt;&gt;label_TinhTrang.Name" xml:space="preserve">
+    <value>label_TinhTrang</value>
+  </data>
+  <data name="&gt;&gt;label_TinhTrang.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label_TinhTrang.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;label_TinhTrang.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="txt_DoDaiTB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>135, 82</value>
+  </data>
+  <data name="txt_DoDaiTB.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="txt_DoDaiTB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>209, 23</value>
+  </data>
+  <data name="txt_DoDaiTB.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;txt_DoDaiTB.Name" xml:space="preserve">
+    <value>txt_DoDaiTB</value>
+  </data>
+  <data name="&gt;&gt;txt_DoDaiTB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_DoDaiTB.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;txt_DoDaiTB.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="label_DoDaiTB.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label_DoDaiTB.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei UI, 12pt</value>
+  </data>
+  <data name="label_DoDaiTB.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label_DoDaiTB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 79</value>
+  </data>
+  <data name="label_DoDaiTB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>108, 27</value>
+  </data>
+  <data name="label_DoDaiTB.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="label_DoDaiTB.Text" xml:space="preserve">
+    <value>Độ dài TB:</value>
+  </data>
+  <data name="&gt;&gt;label_DoDaiTB.Name" xml:space="preserve">
+    <value>label_DoDaiTB</value>
+  </data>
+  <data name="&gt;&gt;label_DoDaiTB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label_DoDaiTB.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;label_DoDaiTB.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="txt_DiemCuoi.Location" type="System.Drawing.Point, System.Drawing">
+    <value>738, 47</value>
+  </data>
+  <data name="txt_DiemCuoi.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="txt_DiemCuoi.Size" type="System.Drawing.Size, System.Drawing">
+    <value>240, 24</value>
+  </data>
+  <data name="txt_DiemCuoi.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;txt_DiemCuoi.Name" xml:space="preserve">
+    <value>txt_DiemCuoi</value>
+  </data>
+  <data name="&gt;&gt;txt_DiemCuoi.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_DiemCuoi.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;txt_DiemCuoi.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="label_DiemCuoi.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label_DiemCuoi.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei UI, 12pt</value>
+  </data>
+  <data name="label_DiemCuoi.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label_DiemCuoi.Location" type="System.Drawing.Point, System.Drawing">
+    <value>588, 44</value>
+  </data>
+  <data name="label_DiemCuoi.Size" type="System.Drawing.Size, System.Drawing">
+    <value>117, 27</value>
+  </data>
+  <data name="label_DiemCuoi.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="label_DiemCuoi.Text" xml:space="preserve">
+    <value>Điểm cuối: </value>
+  </data>
+  <data name="&gt;&gt;label_DiemCuoi.Name" xml:space="preserve">
+    <value>label_DiemCuoi</value>
+  </data>
+  <data name="&gt;&gt;label_DiemCuoi.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label_DiemCuoi.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;label_DiemCuoi.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="txt_DiemDau.Location" type="System.Drawing.Point, System.Drawing">
+    <value>135, 47</value>
+  </data>
+  <data name="txt_DiemDau.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="txt_DiemDau.Size" type="System.Drawing.Size, System.Drawing">
+    <value>209, 24</value>
+  </data>
+  <data name="txt_DiemDau.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;txt_DiemDau.Name" xml:space="preserve">
+    <value>txt_DiemDau</value>
+  </data>
+  <data name="&gt;&gt;txt_DiemDau.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_DiemDau.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;txt_DiemDau.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="label_DiemDau.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label_DiemDau.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei UI, 12pt</value>
+  </data>
+  <data name="label_DiemDau.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label_DiemDau.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 44</value>
+  </data>
+  <data name="label_DiemDau.Size" type="System.Drawing.Size, System.Drawing">
+    <value>115, 27</value>
+  </data>
+  <data name="label_DiemDau.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="label_DiemDau.Text" xml:space="preserve">
+    <value>Điểm đầu: </value>
+  </data>
+  <data name="&gt;&gt;label_DiemDau.Name" xml:space="preserve">
+    <value>label_DiemDau</value>
+  </data>
+  <data name="&gt;&gt;label_DiemDau.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label_DiemDau.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;label_DiemDau.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="txt_TenTuyen.Location" type="System.Drawing.Point, System.Drawing">
+    <value>738, 14</value>
+  </data>
+  <data name="txt_TenTuyen.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="txt_TenTuyen.Size" type="System.Drawing.Size, System.Drawing">
+    <value>240, 27</value>
+  </data>
+  <data name="txt_TenTuyen.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;txt_TenTuyen.Name" xml:space="preserve">
+    <value>txt_TenTuyen</value>
+  </data>
+  <data name="&gt;&gt;txt_TenTuyen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_TenTuyen.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;txt_TenTuyen.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="label_TenTuyen.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label_TenTuyen.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei UI, 12pt</value>
+  </data>
+  <data name="label_TenTuyen.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label_TenTuyen.Location" type="System.Drawing.Point, System.Drawing">
+    <value>588, 11</value>
+  </data>
+  <data name="label_TenTuyen.Size" type="System.Drawing.Size, System.Drawing">
+    <value>110, 27</value>
+  </data>
+  <data name="label_TenTuyen.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="label_TenTuyen.Text" xml:space="preserve">
+    <value>Tên tuyến:</value>
+  </data>
+  <data name="&gt;&gt;label_TenTuyen.Name" xml:space="preserve">
+    <value>label_TenTuyen</value>
+  </data>
+  <data name="&gt;&gt;label_TenTuyen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label_TenTuyen.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;label_TenTuyen.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="txt_MaTuyen.Location" type="System.Drawing.Point, System.Drawing">
+    <value>135, 14</value>
+  </data>
+  <data name="txt_MaTuyen.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="txt_MaTuyen.Size" type="System.Drawing.Size, System.Drawing">
+    <value>209, 27</value>
+  </data>
+  <data name="txt_MaTuyen.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;txt_MaTuyen.Name" xml:space="preserve">
+    <value>txt_MaTuyen</value>
+  </data>
+  <data name="&gt;&gt;txt_MaTuyen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txt_MaTuyen.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;txt_MaTuyen.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="label_MaTuyen.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label_MaTuyen.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft YaHei UI, 12pt</value>
+  </data>
+  <data name="label_MaTuyen.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label_MaTuyen.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 11</value>
+  </data>
+  <data name="label_MaTuyen.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 27</value>
+  </data>
+  <data name="label_MaTuyen.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="label_MaTuyen.Text" xml:space="preserve">
+    <value>Mã tuyến:</value>
+  </data>
+  <data name="&gt;&gt;label_MaTuyen.Name" xml:space="preserve">
+    <value>label_MaTuyen</value>
+  </data>
+  <data name="&gt;&gt;label_MaTuyen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label_MaTuyen.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;label_MaTuyen.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <metadata name="MaTuyen.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="TenTuyen.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="DiemDau.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="DiemCuoi.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="DoDai_TB.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="ThoiGianTB.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="TinhTrang.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="dgvTuyenDuong.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="dgvTuyenDuong.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 94</value>
+  </data>
+  <data name="dgvTuyenDuong.RowHeadersWidth" type="System.Int32, mscorlib">
+    <value>51</value>
+  </data>
+  <data name="dgvTuyenDuong.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1204, 253</value>
+  </data>
+  <data name="dgvTuyenDuong.TabIndex" type="System.Int32, mscorlib">
+    <value>68</value>
+  </data>
+  <data name="&gt;&gt;dgvTuyenDuong.Name" xml:space="preserve">
+    <value>dgvTuyenDuong</value>
+  </data>
+  <data name="&gt;&gt;dgvTuyenDuong.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dgvTuyenDuong.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;dgvTuyenDuong.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <metadata name="MaTuyen.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="MaTuyen.HeaderText" xml:space="preserve">
+    <value>Mã Tuyến</value>
+  </data>
+  <data name="MaTuyen.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="MaTuyen.Width" type="System.Int32, mscorlib">
+    <value>125</value>
+  </data>
+  <metadata name="TenTuyen.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="TenTuyen.HeaderText" xml:space="preserve">
+    <value>Tên Tuyến</value>
+  </data>
+  <data name="TenTuyen.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="TenTuyen.Width" type="System.Int32, mscorlib">
+    <value>125</value>
+  </data>
+  <metadata name="DiemDau.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="DiemDau.HeaderText" xml:space="preserve">
+    <value>Điểm đầu</value>
+  </data>
+  <data name="DiemDau.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="DiemDau.Width" type="System.Int32, mscorlib">
+    <value>125</value>
+  </data>
+  <metadata name="DiemCuoi.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="DiemCuoi.HeaderText" xml:space="preserve">
+    <value>Điểm cuối</value>
+  </data>
+  <data name="DiemCuoi.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="DiemCuoi.Width" type="System.Int32, mscorlib">
+    <value>125</value>
+  </data>
+  <metadata name="DoDai_TB.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="DoDai_TB.HeaderText" xml:space="preserve">
+    <value>Độ dài TB</value>
+  </data>
+  <data name="DoDai_TB.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="DoDai_TB.Width" type="System.Int32, mscorlib">
+    <value>125</value>
+  </data>
+  <metadata name="ThoiGianTB.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="ThoiGianTB.HeaderText" xml:space="preserve">
+    <value>Thời Gian TB</value>
+  </data>
+  <data name="ThoiGianTB.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="ThoiGianTB.Width" type="System.Int32, mscorlib">
+    <value>125</value>
+  </data>
+  <metadata name="TinhTrang.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="TinhTrang.HeaderText" xml:space="preserve">
+    <value>Tình Trạng</value>
+  </data>
+  <data name="TinhTrang.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="TinhTrang.Width" type="System.Int32, mscorlib">
+    <value>125</value>
+  </data>
+  <data name="txtTimKiem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="txtTimKiem.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 5</value>
+  </data>
+  <data name="txtTimKiem.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="txtTimKiem.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="txtTimKiem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>527, 36</value>
+  </data>
+  <data name="txtTimKiem.TabIndex" type="System.Int32, mscorlib">
+    <value>72</value>
+  </data>
+  <data name="txtTimKiem.Text" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="&gt;&gt;txtTimKiem.Name" xml:space="preserve">
+    <value>txtTimKiem</value>
+  </data>
+  <data name="&gt;&gt;txtTimKiem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtTimKiem.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtTimKiem.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="btnTimKiem.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Zoom</value>
+  </data>
+  <data name="btnTimKiem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt</value>
+  </data>
+  <data name="btnTimKiem.Location" type="System.Drawing.Point, System.Drawing">
+    <value>541, 5</value>
+  </data>
+  <data name="btnTimKiem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>42, 38</value>
+  </data>
+  <data name="btnTimKiem.TabIndex" type="System.Int32, mscorlib">
+    <value>131</value>
+  </data>
+  <data name="&gt;&gt;btnTimKiem.Name" xml:space="preserve">
+    <value>btnTimKiem</value>
+  </data>
+  <data name="&gt;&gt;btnTimKiem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnTimKiem.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnTimKiem.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="panel_KhuyenMai.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left, Right</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Name" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Parent" xml:space="preserve">
+    <value>panel_KhuyenMai</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tableLayoutPanel1.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="txt_TinhTrang" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="txt_ThoiGianTB" Row="3" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label_TinhTrang" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label_MaTuyen" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label_ThoiGianTB" Row="3" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="txt_MaTuyen" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label_TenTuyen" Row="1" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="txt_TenTuyen" Row="1" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="txt_DoDaiTB" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label_DiemDau" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label_DoDaiTB" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="txt_DiemDau" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="txt_DiemCuoi" Row="2" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label_DiemCuoi" Row="2" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,11.09229,Percent,37.84928,Percent,12.53175,Percent,38.52667" /&gt;&lt;Rows Styles="Absolute,11,Percent,23.74101,Percent,25.17986,Percent,22.30216,Percent,23.02158,Percent,5.755396" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="panel_KhuyenMai.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 361</value>
+  </data>
+  <data name="panel_KhuyenMai.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1197, 150</value>
+  </data>
+  <data name="panel_KhuyenMai.TabIndex" type="System.Int32, mscorlib">
+    <value>132</value>
+  </data>
+  <data name="&gt;&gt;panel_KhuyenMai.Name" xml:space="preserve">
+    <value>panel_KhuyenMai</value>
+  </data>
+  <data name="&gt;&gt;panel_KhuyenMai.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel_KhuyenMai.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel_KhuyenMai.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="tableLayoutPanel1.ColumnCount" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="tableLayoutPanel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="tableLayoutPanel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="tableLayoutPanel1.RowCount" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="tableLayoutPanel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1197, 150</value>
+  </data>
+  <data name="tableLayoutPanel1.TabIndex" type="System.Int32, mscorlib">
+    <value>130</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Name" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Parent" xml:space="preserve">
+    <value>panel_KhuyenMai</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tableLayoutPanel1.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="txt_TinhTrang" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="txt_ThoiGianTB" Row="3" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label_TinhTrang" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label_MaTuyen" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label_ThoiGianTB" Row="3" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="txt_MaTuyen" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label_TenTuyen" Row="1" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="txt_TenTuyen" Row="1" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="txt_DoDaiTB" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="label_DiemDau" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label_DoDaiTB" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="txt_DiemDau" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="txt_DiemCuoi" Row="2" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="label_DiemCuoi" Row="2" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,11.09229,Percent,37.84928,Percent,12.53175,Percent,38.52667" /&gt;&lt;Rows Styles="Absolute,11,Percent,23.74101,Percent,25.17986,Percent,22.30216,Percent,23.02158,Percent,5.755396" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="btnLuu.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="btnLuu.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnLuu.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="btnLuu.Location" type="System.Drawing.Point, System.Drawing">
+    <value>778, 527</value>
+  </data>
+  <data name="btnLuu.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="btnLuu.TabIndex" type="System.Int32, mscorlib">
+    <value>139</value>
+  </data>
+  <data name="btnLuu.Text" xml:space="preserve">
+    <value>Lưu</value>
+  </data>
+  <data name="&gt;&gt;btnLuu.Name" xml:space="preserve">
+    <value>btnLuu</value>
+  </data>
+  <data name="&gt;&gt;btnLuu.Type" xml:space="preserve">
+    <value>WFQLDatXeTrucTuyen.RJControls.RJButton, WFQLDatXeTrucTuyen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnLuu.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnLuu.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnHuyBo.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="btnHuyBo.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnHuyBo.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="btnHuyBo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>622, 527</value>
+  </data>
+  <data name="btnHuyBo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="btnHuyBo.TabIndex" type="System.Int32, mscorlib">
+    <value>138</value>
+  </data>
+  <data name="btnHuyBo.Text" xml:space="preserve">
+    <value>Hủy Bỏ</value>
+  </data>
+  <data name="&gt;&gt;btnHuyBo.Name" xml:space="preserve">
+    <value>btnHuyBo</value>
+  </data>
+  <data name="&gt;&gt;btnHuyBo.Type" xml:space="preserve">
+    <value>WFQLDatXeTrucTuyen.RJControls.RJButton, WFQLDatXeTrucTuyen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnHuyBo.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnHuyBo.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btnSua.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="btnSua.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnSua.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="btnSua.Location" type="System.Drawing.Point, System.Drawing">
+    <value>466, 527</value>
+  </data>
+  <data name="btnSua.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="btnSua.TabIndex" type="System.Int32, mscorlib">
+    <value>137</value>
+  </data>
+  <data name="btnSua.Text" xml:space="preserve">
+    <value>Sửa</value>
+  </data>
+  <data name="&gt;&gt;btnSua.Name" xml:space="preserve">
+    <value>btnSua</value>
+  </data>
+  <data name="&gt;&gt;btnSua.Type" xml:space="preserve">
+    <value>WFQLDatXeTrucTuyen.RJControls.RJButton, WFQLDatXeTrucTuyen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnSua.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnSua.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btnReLoad.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="btnReLoad.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnReLoad.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="btnReLoad.Location" type="System.Drawing.Point, System.Drawing">
+    <value>310, 527</value>
+  </data>
+  <data name="btnReLoad.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 40</value>
+  </data>
+  <data name="btnReLoad.TabIndex" type="System.Int32, mscorlib">
+    <value>136</value>
+  </data>
+  <data name="btnReLoad.Text" xml:space="preserve">
+    <value>Reload</value>
+  </data>
+  <data name="&gt;&gt;btnReLoad.Name" xml:space="preserve">
+    <value>btnReLoad</value>
+  </data>
+  <data name="&gt;&gt;btnReLoad.Type" xml:space="preserve">
+    <value>WFQLDatXeTrucTuyen.RJControls.RJButton, WFQLDatXeTrucTuyen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnReLoad.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnReLoad.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="btnXoa.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="btnXoa.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnXoa.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="btnXoa.Location" type="System.Drawing.Point, System.Drawing">
+    <value>910, 5</value>
+  </data>
+  <data name="btnXoa.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 36</value>
+  </data>
+  <data name="btnXoa.TabIndex" type="System.Int32, mscorlib">
+    <value>141</value>
+  </data>
+  <data name="btnXoa.Text" xml:space="preserve">
+    <value>Xóa</value>
+  </data>
+  <data name="&gt;&gt;btnXoa.Name" xml:space="preserve">
+    <value>btnXoa</value>
+  </data>
+  <data name="&gt;&gt;btnXoa.Type" xml:space="preserve">
+    <value>WFQLDatXeTrucTuyen.RJControls.RJButton, WFQLDatXeTrucTuyen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnXoa.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnXoa.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnThem.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="btnThem.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnThem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  </data>
+  <data name="btnThem.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnThem.Location" type="System.Drawing.Point, System.Drawing">
+    <value>1060, 5</value>
+  </data>
+  <data name="btnThem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 36</value>
+  </data>
+  <data name="btnThem.TabIndex" type="System.Int32, mscorlib">
+    <value>140</value>
+  </data>
+  <data name="btnThem.Text" xml:space="preserve">
+    <value>Thêm</value>
+  </data>
+  <data name="&gt;&gt;btnThem.Name" xml:space="preserve">
+    <value>btnThem</value>
+  </data>
+  <data name="&gt;&gt;btnThem.Type" xml:space="preserve">
+    <value>WFQLDatXeTrucTuyen.RJControls.RJButton, WFQLDatXeTrucTuyen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnThem.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnThem.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="rjButton1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Left, Right</value>
+  </data>
+  <data name="rjButton1.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="rjButton1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 13.8pt</value>
+  </data>
+  <data name="rjButton1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 47</value>
+  </data>
+  <data name="rjButton1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1197, 40</value>
+  </data>
+  <data name="rjButton1.TabIndex" type="System.Int32, mscorlib">
+    <value>142</value>
+  </data>
+  <data name="rjButton1.Text" xml:space="preserve">
+    <value>Danh Sách Tuyến Đường</value>
+  </data>
+  <data name="&gt;&gt;rjButton1.Name" xml:space="preserve">
+    <value>rjButton1</value>
+  </data>
+  <data name="&gt;&gt;rjButton1.Type" xml:space="preserve">
+    <value>WFQLDatXeTrucTuyen.RJControls.RJButton, WFQLDatXeTrucTuyen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;rjButton1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;rjButton1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 16</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1206, 579</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterParent</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Tuyến Đường</value>
+  </data>
+  <data name="&gt;&gt;MaTuyen.Name" xml:space="preserve">
+    <value>MaTuyen</value>
+  </data>
+  <data name="&gt;&gt;MaTuyen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TenTuyen.Name" xml:space="preserve">
+    <value>TenTuyen</value>
+  </data>
+  <data name="&gt;&gt;TenTuyen.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DiemDau.Name" xml:space="preserve">
+    <value>DiemDau</value>
+  </data>
+  <data name="&gt;&gt;DiemDau.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DiemCuoi.Name" xml:space="preserve">
+    <value>DiemCuoi</value>
+  </data>
+  <data name="&gt;&gt;DiemCuoi.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;DoDai_TB.Name" xml:space="preserve">
+    <value>DoDai_TB</value>
+  </data>
+  <data name="&gt;&gt;DoDai_TB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ThoiGianTB.Name" xml:space="preserve">
+    <value>ThoiGianTB</value>
+  </data>
+  <data name="&gt;&gt;ThoiGianTB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TinhTrang.Name" xml:space="preserve">
+    <value>TinhTrang</value>
+  </data>
+  <data name="&gt;&gt;TinhTrang.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>FrmTuyenDuong</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>
